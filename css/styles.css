@@ -1,5 +1,12 @@
 .top-box {
   font-size: 12px;
   margin: 20px;
+  height: 150px;
   background-color: grey;
+  padding-top: 15px;
+}
+
+
+h1 {
+  font-size: 20px;
 }
